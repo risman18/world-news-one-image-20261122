@@ -8,7 +8,7 @@ after opening.
 ## Repo
 
 - Repo: https://github.com/risman18/world-news-one-image-20261122
-- Commit: (filled after push)
+- Commit: fe864c8 ("news-image-20261122: The World Today front page for 22 Nov 2026"), plus a follow-up commit recording this commit hash in BUILD_NOTES.md.
 - Contents: `main.py`, `entry.png`, `render.py`, `README.md`, `LICENSE`
   (MIT), `.makefun/owner.json`, `BUILD_NOTES.md`
 
